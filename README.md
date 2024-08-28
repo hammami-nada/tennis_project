@@ -4,6 +4,9 @@
 ## Introduction
 This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. 
 
+## Output Videos
+![screenshot (1)](https://github.com/user-attachments/assets/afcb4417-616d-420a-b218-7d271bfa3480)
+
 
 ## Models Used
 * YOLO v8 for player detection
@@ -23,4 +26,3 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 * pandas
 * numpy 
 * opencv
-![screenshot (1)](https://github.com/user-attachments/assets/afcb4417-616d-420a-b218-7d271bfa3480)
